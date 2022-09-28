@@ -4,11 +4,17 @@ let esperanza = {
     nombre: "Esperanza",
     provincia: "Santa Fe",
     pais: "Argentina",
-    habitantes: 50000,
+    habitantes: 40125,
 }
 let recreo = {
     nombre: "Recreo",
     provincia: "Santa Fe",
     pais: "Argentina",
-    habitantes: 14205,
+    habitantes: 14205,    
+}
+let santaFe = {
+    nombre: "Santa Fe",
+    provincia: "Santa Fe",
+    pais: "Argentina",
+    habitantes: 3194537,
 }
