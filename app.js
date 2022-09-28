@@ -4,5 +4,11 @@ let esperanza = {
     nombre: "Esperanza",
     provincia: "Santa Fe",
     pais: "Argentina",
-    habitantes: 44000,
+    habitantes: 50000,
+}
+let recreo = {
+    nombre: "Recreo",
+    provincia: "Santa Fe",
+    pais: "Argentina",
+    habitantes: 14205,
 }
